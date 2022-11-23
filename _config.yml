@@ -18,39 +18,39 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : # the base hostname & protocol for your site e.g. https://mysteriousmountain.xyz/
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Mysterious Mountain
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  qwq
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: zh# the language of your site, default as "en"
+timezone: Asia/Shanghai# see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Hina
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       :
   email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  facebook  : # "user_name" the last part of your profile url, e.g.
+  twitter   : # "user_name" the last part of your profile url, e.g.
+  weibo     : # "user_id"   the last part of your profile url, e.g.
+  googleplus: # "user_id"   the last part of your profile url, e.g.
+  telegram  : # "user_name" the last part of your profile url, e.g.
+  medium    : # "user_name" the last part of your profile url, e.g.
+  zhihu     : # "user_name" the last part of your profile url, e.g.
+  douban    : # "user_name" the last part of your profile url, e.g.
+  linkedin  : # "user_name" the last part of your profile url, e.g.
+  github    : # "user_name" the last part of your profile url, e.g. https://github.com/Kgym-Hina
+  npm       : # "user_name" the last part of your profile url, e.g.
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
